@@ -1,2 +1,26 @@
-# personal-finance-assistant
-A Python CLI application to track expenses, analyze spending, and split bills.
+# Personal Finance Assistant 💰
+
+A Python CLI application to manage daily expenses efficiently.
+
+## 🚀 Features
+- Add and track expenses
+- View all expenses
+- Calculate total and average spending
+- Category-wise expense analysis
+- Bill splitting with tip calculation
+- Data persistence using file handling
+
+## 🛠️ Technologies Used
+- Python
+- File Handling
+
+## ▶️ How to Run
+1. Clone the repository
+2. Open terminal in project folder
+3. Run:
+   python finance_app.py
+
+## 📌 Future Improvements
+- GUI version (Tkinter)
+- Monthly expense reports
+- Data visualization (charts)
