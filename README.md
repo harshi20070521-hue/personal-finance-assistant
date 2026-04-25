@@ -18,7 +18,7 @@ A Python CLI application to manage daily expenses efficiently.
 1. Clone the repository
 2. Open terminal in project folder
 3. Run:
-   python finance_app.py
+   python personal_finance_assistant.py
 
 ## 📌 Future Improvements
 - GUI version (Tkinter)
